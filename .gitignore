@@ -1,0 +1,15 @@
+#devepencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/dist
+
+.eslintrc.json
+
+# misc
+DS_store
+.package-lock.json
