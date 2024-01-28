@@ -1,4 +1,4 @@
-#devepencies
+#dependecies
 /node_modules
 
 # testing
@@ -8,8 +8,6 @@
 /build
 /dist
 
-.eslintrc.json
-
-# misc
-DS_store
+#misc
+DS_Store
 .package-lock.json
